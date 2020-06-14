@@ -6,6 +6,11 @@ public class Pauta {
     private Long id;
     private String descricao;
     private List<Sessao> sessoes;
+
+    public Pauta () {
+
+    }
+
     public Pauta(Long id, String descricao) {
         this.id = id;
         this.descricao = descricao;

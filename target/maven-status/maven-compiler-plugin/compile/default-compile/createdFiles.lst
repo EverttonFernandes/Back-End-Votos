@@ -1,0 +1,6 @@
+com\everttonfernandes\backendvotos\BackEndVotosApplication.class
+com\everttonfernandes\backendvotos\domain\Associado.class
+com\everttonfernandes\backendvotos\domain\Pauta.class
+com\everttonfernandes\backendvotos\domain\Sessao.class
+com\everttonfernandes\backendvotos\controller\PautaController$DadosPauta.class
+com\everttonfernandes\backendvotos\controller\PautaController.class
